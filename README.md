@@ -1,3 +1,6 @@
+# Followed along with llamadev on YT
+![alt text](https://github.com/bodowd/reactadmin/blob/master/reactadmin.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
