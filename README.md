@@ -1,4 +1,8 @@
 # Followed along with llamadev on YT
+
+React frontend only.
+
+Has a home page, user list, user, create user, product list, product, and create product page
 ![alt text](https://github.com/bodowd/reactadmin/blob/master/reactadmin.png)
 
 # Getting Started with Create React App
